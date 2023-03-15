@@ -1,0 +1,23 @@
+2023년 3월 15일   
+작성자: 정경원
+
+- 전날 회의 이후 각자 추가 작업한 내용 공유     
+
+- 각자 맡은 column 최종 전처리 완료 후 팀원들에게 설명 진행
+
+- 코드 최종 취합 및 가독성 좋도록 정리 
+
+- 최종 사용한 column 값 
+1. Pclass-수정사항 없음, 
+2. Sex- 문자열 데이터를 정수형 데이터로 변환
+3. Age- Name에서 찾은 title 정보를 이용하여 title에 따른 평균값으로 결측치 처리
+4. SibSp- 수정사항 없음
+5. Parch- 수정사항 없음
+6. Fare- 결측치를 중앙값으로 처리
+7. Embarked- 문자열 데이터를 정수형 데이터로 변환)
+
+- 모델: Logistic Regression, Decision Tree, Random Forest, XGBoost  사용
+
+- 발표자 선정 (장수연)
+
+- 버전 별 juptyer notebook 및 회의록 깃허브에 업로드
